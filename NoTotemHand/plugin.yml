@@ -1,0 +1,8 @@
+name: NoTotemHand
+version: 1.0
+api-version: 1.13
+main: me.GFelberg.NoTotemHand.Main
+author: GFelberg
+commands:
+  totem:
+    usage: /<command> 
