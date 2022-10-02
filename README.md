@@ -21,7 +21,7 @@ The NoTotemHand plugin has the ability to use the totem of undying without using
     nototemhand.admin : Access to the Totem Command, to the Help Page and to Reload the Plugin
   
 #### Available in the following versions ⚙️:
-  - 1.11x até 1.19x
+  - 1.11x - 1.19x
 
 #### Alternative Hosting 🏠:
   - Spigot: https://www.spigotmc.org/resources/nototemhand.104909/
