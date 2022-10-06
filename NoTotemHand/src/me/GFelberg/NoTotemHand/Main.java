@@ -17,10 +17,10 @@ public class Main extends JavaPlugin {
 		TotemUtils.loadVariables();
 		getCommand("totem").setExecutor(new Totem());
 		getServer().getPluginManager().registerEvents(new TotemEvents(), this);
-		Bukkit.getConsoleSender().sendMessage("-----------------------------");
+		Bukkit.getConsoleSender().sendMessage("----------------------------");
 		Bukkit.getConsoleSender().sendMessage("NoTotemHand Plugin Enabled!");
-		Bukkit.getConsoleSender().sendMessage("Plugin develloped by GFelberg");
-		Bukkit.getConsoleSender().sendMessage("-----------------------------");
+		Bukkit.getConsoleSender().sendMessage("Plugin developed by GFelberg");
+		Bukkit.getConsoleSender().sendMessage("----------------------------");
 	}
 
 	public static Main getInstance() {
@@ -28,9 +28,9 @@ public class Main extends JavaPlugin {
 	}
 
 	public void onDisable() {
-		Bukkit.getConsoleSender().sendMessage("-----------------------------");
+		Bukkit.getConsoleSender().sendMessage("----------------------------");
 		Bukkit.getConsoleSender().sendMessage("NoTotemHand Plugin Disabled!");
-		Bukkit.getConsoleSender().sendMessage("Plugin develloped by GFelberg");
-		Bukkit.getConsoleSender().sendMessage("-----------------------------");
+		Bukkit.getConsoleSender().sendMessage("Plugin developed by GFelberg");
+		Bukkit.getConsoleSender().sendMessage("----------------------------");
 	}
 }

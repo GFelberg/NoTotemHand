@@ -11,20 +11,20 @@ public class TotemUtils {
 	public static String prefix, inventoryEnabled, inventoryDisabled, help_page, help_reload;
 
 	public static void loadVariables() {
-		prefix = Main.getInstance().getConfig().getString("Totem.Prefix").replace("&", "ง");
-		inventoryEnabled = Main.getInstance().getConfig().getString("Totem.InventoryEnabled").replace("&", "ง");
-		inventoryDisabled = Main.getInstance().getConfig().getString("Totem.InventoryDisabled").replace("&", "ง");
-		help_page = Main.getInstance().getConfig().getString("Help.Page").replace("&", "ง");
-		help_reload = Main.getInstance().getConfig().getString("Help.Reload").replace("&", "ง");
+		prefix = Main.getInstance().getConfig().getString("Totem.Prefix").replace("&", "ยง");
+		inventoryEnabled = Main.getInstance().getConfig().getString("Totem.InventoryEnabled").replace("&", "ยง");
+		inventoryDisabled = Main.getInstance().getConfig().getString("Totem.InventoryDisabled").replace("&", "ยง");
+		help_page = Main.getInstance().getConfig().getString("Help.Page").replace("&", "ยง");
+		help_reload = Main.getInstance().getConfig().getString("Help.Reload").replace("&", "ยง");
 	}
 
 	public void reloadConfig(Player p) {
 		Main.getInstance().reloadConfig();
 		loadVariables();
 		p.sendMessage(prefix + " " + ChatColor.GREEN + "Plugin reloaded successfully!");
-		Bukkit.getServer().getConsoleSender().sendMessage("=============================================");
-		Bukkit.getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "NoTotemHand Plugin reloaded");
-		Bukkit.getServer().getConsoleSender().sendMessage("=============================================");
+		Bukkit.getConsoleSender().sendMessage("=============================================");
+		Bukkit.getConsoleSender().sendMessage(ChatColor.GREEN + "NoTotemHand Plugin reloaded");
+		Bukkit.getConsoleSender().sendMessage("=============================================");
 	}
 
 	public void helpPage(Player p) {
