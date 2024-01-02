@@ -1,7 +1,9 @@
 # NoTotemHand ✋ (1.11x - 1.20x)
 
 ## English: :earth_americas:
-The NoTotemHand plugin has the ability to use the totem of undying without using the hands.
+NoTotemHand is a plugin made for Minecraft which has the ability to use the totem of undying without using the hands.
+
+![Vídeo GIF](https://github.com/GFelberg/NoTotemHand/assets/41524430/e0755f55-9243-4b57-b462-ed45c49585e8)
 
 ### Commands:
     /totem help - Shows the Help Page
@@ -19,20 +21,24 @@ The NoTotemHand plugin has the ability to use the totem of undying without using
     
     So, be careful which option is activated when being in danger.
 
+![Vídeo GIF 2](https://github.com/GFelberg/NoTotemHand/assets/41524430/48d90aff-61ee-468d-a118-71ca332e8e87)
+
 ### Available for download at Spigot: https://www.spigotmc.org/resources/nototemhand.104909/
 
 ### Images:
 
-![image](https://user-images.githubusercontent.com/41524430/193423664-dcb4f1f4-ae84-4482-b97c-d5612fc0a0ab.png)
+![1](https://github.com/GFelberg/NoTotemHand/assets/41524430/1bfcba1d-142e-431f-bc09-7f3f00ef30c7)
 
-![image](https://user-images.githubusercontent.com/41524430/193423669-eeb0448b-3e63-4fc4-953c-5d911e99a1d5.png)
+![2](https://github.com/GFelberg/NoTotemHand/assets/41524430/a5c164ba-8cda-4b95-883e-5db70a449440)
 
-![image](https://user-images.githubusercontent.com/41524430/193423673-38afddff-2828-4414-aad9-6bf4dc359d06.png)
+![3](https://github.com/GFelberg/NoTotemHand/assets/41524430/17deb4c9-eb09-4357-a907-f76271652c79)
 
-![image](https://user-images.githubusercontent.com/41524430/193423676-e8a1e8e3-7a46-4ad9-a431-f41f1d682a43.png)
+![4](https://github.com/GFelberg/NoTotemHand/assets/41524430/f53c5085-09a2-4b22-a84e-ad08e1de7efb)
 
 ## Portuguese: <img src="https://github.com/GFelberg/NoTotemHand/assets/41524430/da586c8f-fac7-4f00-a94a-2194f527a84c" width="30" height="30">
-O plugin NoTotemHand possui a habilidade usar o totem da imortalidade sem utilizar as mãos.
+NoTotemHand é um plugin desenvolvido para o Minecraft que possui a habilidade usar o totem da imortalidade sem utilizar as mãos.
+
+![Vídeo GIF](https://github.com/GFelberg/NoTotemHand/assets/41524430/487a7d26-8a65-4314-b2de-8d2e0890db42)
 
 ### Comandos:
     /totem help - Mostrar a Página de Ajuda
@@ -49,15 +55,17 @@ O plugin NoTotemHand possui a habilidade usar o totem da imortalidade sem utiliz
     Isso significa que você pode desabilitar ou abilitar o totem de ser usado de dentro do inventário.
 
     Então, seja cuidadoso com a opção que se encontra ativa enquanto estiver em perigo.
+    
+![Vídeo GIF 2](https://github.com/GFelberg/NoTotemHand/assets/41524430/e61ef19d-0134-465f-b980-68d89e6ff71e)
 
 ### Disponível para download no Spigot: https://www.spigotmc.org/resources/nototemhand.104909/
 
 ### Imagens:
   
-![image](https://user-images.githubusercontent.com/41524430/193423664-dcb4f1f4-ae84-4482-b97c-d5612fc0a0ab.png)
+![1](https://github.com/GFelberg/NoTotemHand/assets/41524430/1bfcba1d-142e-431f-bc09-7f3f00ef30c7)
 
-![image](https://user-images.githubusercontent.com/41524430/193423669-eeb0448b-3e63-4fc4-953c-5d911e99a1d5.png)
+![2](https://github.com/GFelberg/NoTotemHand/assets/41524430/a5c164ba-8cda-4b95-883e-5db70a449440)
 
-![image](https://user-images.githubusercontent.com/41524430/193423673-38afddff-2828-4414-aad9-6bf4dc359d06.png)
+![3](https://github.com/GFelberg/NoTotemHand/assets/41524430/17deb4c9-eb09-4357-a907-f76271652c79)
 
-![image](https://user-images.githubusercontent.com/41524430/193423676-e8a1e8e3-7a46-4ad9-a431-f41f1d682a43.png)
+![4](https://github.com/GFelberg/NoTotemHand/assets/41524430/f53c5085-09a2-4b22-a84e-ad08e1de7efb)
